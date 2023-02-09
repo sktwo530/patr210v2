@@ -5,12 +5,12 @@ DIR_CONFIG="/etc/v2ray"
 DIR_RUNTIME="/usr/bin"
 DIR_TMP="$(mktemp -d)"
 
-uuidone=0e8cc52e-caf5-44aa-90c1-697e49fd8887
-uuidtwo=56a697d8-3fcd-4cf0-859c-9ab1b5df58df
-uuidthree=fbcfc0ba-76ce-4fb6-a61a-ed239b70b802
-uuidfour=50da9c1f-bf7a-47fa-b933-f7ad52161d41
-uuidfive=281204fe-1c43-4d9d-8727-b2ba90fc9863
-mypath=/file-myfile
+e9ede3a9-269d-4beb-a9c5-b78a698ccd5d
+3e353e33-ffc9-4f3e-9b20-c194bf494116
+62234945-6343-43a7-9e28-d8b5e7344c7d
+7a15c742-d0a9-49ff-b0c1-156109c6c2c8
+8e102b16-5a0a-418c-92e9-a56149a7880c
+mypath=/hellokitty-mylove
 myport=8080
 
 
